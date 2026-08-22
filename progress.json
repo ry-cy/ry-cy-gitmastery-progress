@@ -113,5 +113,14 @@
       "Answer for In February, who was replaced in the Wednesday duty roster? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787395666.336383,
+    "completed_at": 1787395668.387125,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
   }
 ]
