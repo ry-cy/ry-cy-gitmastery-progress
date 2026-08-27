@@ -222,33 +222,5 @@
       "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1787808981.306208,
-    "completed_at": 1787808985.443095,
-    "comments": [
-      "You aren't currently on the main branch. Checkout to that branch and try again!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1787808995.851265,
-    "completed_at": 1787809000.10359,
-    "comments": [
-      "You need to start merging the feature branches."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1787809046.333197,
-    "completed_at": 1787809050.474949,
-    "comments": [
-      "You cannot use fast forwarding on feature/login when merging.",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
   }
 ]
